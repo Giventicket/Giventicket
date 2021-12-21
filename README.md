@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/express-333664?style=flat-square&logo=express&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-333664?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/docker-33ee64?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mongoDB-eeee64?style=flat-square&logo=mongoDB&logoColor=white"/></a>&nbsp 
 </p>
 <hr/>
 <h3 align="center">🐯 참여한 프로젝트 🐯</h3>
