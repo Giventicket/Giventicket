@@ -47,7 +47,7 @@
   <div>React 프레임워크를 기반으로 대학스터디 서비스의 knotehow의 frontend version1.0을 개발했습니다. 현재는 버전 업이 되어 제가 개발했던 버전과의 다소 차이가 있습니다. 대부분의 커밋을 여기서 했었는데 private repository라서 저의 커밋에 반영되지 않았습니다. <div>
   
    <h4 align="">
-    3. 우리은행 해커톤: 우디스(WOODIS)  
+    3. 우리은행 온택트 해커톤: 우디스(WOODIS)  
     <a href="https://woodis.netlify.app/">link</a>
     <a href="https://github.com/Giventicket/woodis_frontend">repository</a>
   </h4>
