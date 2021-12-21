@@ -28,9 +28,31 @@
   <img src="https://img.shields.io/badge/express-333664?style=flat-square&logo=express&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-333664?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
 </p>
+<hr/>
+<h3 align="center">🐯 참여한 프로젝트 🐯</h3>
+  <h4 align="">
+    1. 테트리스 
+    <a href="https://backtotetris.netlify.app/">link</a>
+    <a href="https://github.com/Giventicket/Tetris">repository</a>
+  </h4>
+   <div>html, css, javascript를 기반으로 tetris를 할 수 있는 웹사이트를 제작하였습니다.</div>
+   
+  <h4 align="">
+    2. 노트하우(knotehow) 
+    <a href="https://www.knotehow.com/">link</a>
+  </h4>
+  <div>React 프레임워크를 기반으로 대학스터디 서비스의 knotehow의 frontend version1.0을 개발했습니다. 현재는 버전 업이 되어 제가 개발했던 버전과의 다소 차이가 있습니다.<div>
+  
+   <h4 align="">
+    3. 우리은행 해커톤: 우디스(WOODIS)  
+    <a href="">link</a>
+    <a href="https://github.com/Giventicket/woodis_frontend">repository</a>
+  </h4>
+  <div>React 프레임워크를 기반으로 카드 할인 정보 플랫폼의 frontend 개발을 맡았었습니다. <div>
+</h3>
 
-
-
+<hr/>
 <p align="center">
+    <a href="https://www.instagram.com/junpyoseo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiventicket&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
