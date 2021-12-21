@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=Giventicket"/></a>&nbsp&nbsp
-  <a href="http://mazassumnida.wtf"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jpseo99"/></a>
-
+  <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=Giventicket"/></a>&nbsp
+  <a href="https://www.acmicpc.net/user/jpseo99"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jpseo99"/></a>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
