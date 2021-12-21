@@ -11,8 +11,10 @@
   <a href="https://www.acmicpc.net/user/jpseo99"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jpseo99"/></a>
 </p>
 
+<hr/>
+
 <h3 align="center">🛠 테크 스택 🛠</h3>
-<p align="center"> 접하고 활용해 본 language 와 framework</p>
+<p align="center">접하고 활용해 본 language 와 framework 입니다</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
