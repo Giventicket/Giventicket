@@ -47,7 +47,7 @@
   
    <h4 align="">
     3. 우리은행 해커톤: 우디스(WOODIS)  
-    <a href="">link</a>
+    <a href="woodis.netlify.app">link</a>
     <a href="https://github.com/Giventicket/woodis_frontend">repository</a>
   </h4>
   <div>React 프레임워크를 기반으로 카드 할인 정보 플랫폼의 frontend 개발을 맡았었습니다. <div>
