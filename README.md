@@ -50,7 +50,7 @@
     <a href="https://woodis.netlify.app/">link</a>
     <a href="https://github.com/Giventicket/woodis_frontend">repository</a>
   </h4>
-  <div>React 프레임워크를 기반으로 카드 할인 정보 플랫폼의 frontend 개발을 맡았었습니다. <div>
+  <div>React 프레임워크를 기반으로 카드 할인 정보 플랫폼의 frontend 개발을 맡았었습니다. 지금은 app key 유효기간이 만료되어서 메인화면만 노출 가능합니다. 자세한 활동 내역은 repository의 마크다운을 참조해주시면 되겠습니다.<div>
 </h3>
 
 <hr/>
