@@ -56,6 +56,18 @@
 </h3>
 
 <hr/>
+    
+<h3 align="center">🐯 실습 🐯</h3>
+  <h4 align="">
+    1. 테트리스 
+    <a href="https://seo-jun-pyo.gitbook.io/transaction/">link</a>
+    <a href="https://github.com/Giventicket/Transaction">repository</a>
+  </h4>
+ <div>Node.js 마이크로서비스 코딩 공작소를 학습하면서 실습한 쇼핑몰의 api입니다. http 모듈을 기반으로 REST api를 제작하였고 GCP의 computing engine으로 backend server, SQL로 database를 구축하였습니다.
+
+</div>
+    
+<hr/>
 <h3 align="center">😃 마치며 😃</h3>
 <p align="center">
     <a href="https://www.instagram.com/junpyoseo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
