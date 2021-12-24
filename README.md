@@ -57,7 +57,7 @@
 
 <hr/>
     
-<h3 align="center">🐯 실습 🐯</h3>
+<h3 align="center">🐇 실습 🐇</h3>
   <h4 align="">
     1. 전자거래 서비스 벡엔드 
     <a href="https://seo-jun-pyo.gitbook.io/transaction/">link</a>
