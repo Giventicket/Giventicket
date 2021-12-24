@@ -63,7 +63,7 @@
     <a href="https://seo-jun-pyo.gitbook.io/transaction/">link</a>
     <a href="https://github.com/Giventicket/Transaction">repository</a>
   </h4>
- <div>Node.js 마이크로서비스 코딩 공작소를 학습하면서 실습한 쇼핑몰의 api입니다. http 모듈을 기반으로 REST api를 제작하였고 GCP의 computing engine으로 backend server, SQL로 database를 구축하였습니다.
+ <div>[Node.js 마이크로서비스 코딩 공작소]를 학습하면서 실습한 쇼핑몰의 api입니다. http 모듈을 기반으로 REST api를 제작하였고 GCP의 computing engine으로 backend server, SQL로 database를 구축하였습니다.
 </div>
     
 <hr/>
