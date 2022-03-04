@@ -53,6 +53,14 @@
     <a href="https://github.com/Giventicket/woodis_frontend">repository</a>
   </h4>
   <div>React 프레임워크를 기반으로 카드 할인 정보 플랫폼의 frontend 개발을 맡았었습니다. 지금은 app key 유효기간이 만료되어서 메인화면만 노출 가능합니다. 자세한 활동 내역은 repository의 마크다운을 참조해주시면 되겠습니다.<div>
+    
+   <h4 align="">
+    4. 카카오브레인 패스파인더 인턴쉽: dubai
+    <a href="https://dub-ai.site/">link</a>
+    <a href="https://github.com/Giventicket/apeach-back">repository</a>
+   </h4>
+  <div>인공지능이 더빙을 해줄 수 없을까? 라는 unthinkable question에서 시작된 프로젝트입니다. 카카오 브레인에서 인턴쉽을 진행하며 두달간 제작한 산출물입니다. 145개의 문장을 녹음하면 맞춤형 tts 모델을 훈련시켜 저장하고 임의의 음성파일을 더빙시켜주는 서비스를 개발하였습니다. 벡엔드 서버를 담당하였고 nodejs, gcp pub/sub, gcp compute engine, gcp storage, mongo db, discord webhook 등을 tech stack으로 활용했습니다. <div>
+
 </h3>
 
 <hr/>
