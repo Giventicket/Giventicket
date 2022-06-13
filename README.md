@@ -74,13 +74,23 @@
     <a href="https://seo-jun-pyo.gitbook.io/transaction/">link</a>
     <a href="https://github.com/Giventicket/Transaction">repository</a>
   </h4>
- <div>[Node.js 마이크로서비스 코딩 공작소]를 학습하면서 실습한 쇼핑몰의 api입니다. http 모듈을 기반으로 REST api를 제작하였고 GCP의 computing engine으로 backend server, SQL로 database를 구축하였습니다.
-</div>
-    
+  <div>
+   [Node.js 마이크로서비스 코딩 공작소]를 학습하면서 실습한 쇼핑몰의 api입니다. http 모듈을 기반으로 REST api를 제작하였고 GCP의 computing engine으로 backend server, SQL로 database를 구축하였습니다.
+  </div>
+   <h4 align="">
+    2. 기계학습의 기초 및 전기정보의 응용 과제 모음(M2608.001300_001)
+    <a href="https://github.com/Giventicket/MachineLearningAssignment-M2608.001300_001-">repository</a>
+  </h4>
+  <div>
+서울대학교 전기정보공학부 윤성료 교수님의 기계학습 기초 및 전기정보 응용 (2022년도, 1학기, M2608.001300_001)을 수강하면서 진행했던 assignment를 모은 자료입니다.
+  </div>
+
 <hr/>
 <h3 align="center">😃 마치며 😃</h3>
 <p align="center">
     <a href="https://www.instagram.com/junpyoseo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiventicket&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+    
+    
 <br/>
