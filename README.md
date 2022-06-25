@@ -84,6 +84,7 @@
   <div>
 서울대학교 전기정보공학부 윤성료 교수님의 기계학습 기초 및 전기정보 응용 (2022년도, 1학기, M2608.001300_001)을 수강하면서 진행했던 assignment를 모은 자료입니다.
   </div>
+    <h4 align="">
     3. SCPC 문제 풀어보기
     <a href="https://github.com/Giventicket/SCPC">repository</a>
   </h4>
