@@ -62,7 +62,7 @@
     <a href="https://dub-ai.site/">link</a>
     <a href="https://github.com/Giventicket/apeach-back">repository</a>
    </h4>
-  <div>인공지능이 더빙을 해줄 수 없을까? 라는 unthinkable question에서 시작된 프로젝트입니다. 카카오 브레인에서 인턴쉽을 진행하며 두달간 제작한 산출물입니다. 145개의 문장을 녹음하면 맞춤형 tts 모델을 훈련시켜 저장하고 임의의 음성파일을 더빙시켜주는 서비스를 개발하였습니다. 벡엔드 서버를 담당하였고 nodejs, gcp pub/sub, gcp compute engine, gcp storage, mongo db, discord webhook 등을 tech stack으로 활용했습니다. <div>
+  <div>인공지능을 활용 더빙은 물론 화자의 음색을 그대로 구현하는 기능을 할 수는 없을까? 라는 unthinkable question에서 시작된 프로젝트입니다. 카카오 브레인에서 인턴쉽을 진행하며 두달간 제작한 산출물입니다. 145개의 문장을 녹음하면 맞춤형 tts 모델을 훈련시켜 저장하고 임의의 음성파일을 더빙시켜주는 서비스를 개발하였습니다. 벡엔드 서버를 담당하였고 nodejs, gcp pub/sub, gcp compute engine, gcp storage, mongo db, discord webhook 등을 tech stack으로 활용했습니다. <div>
 
 </h3>
 
