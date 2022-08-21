@@ -64,6 +64,18 @@
    </h4>
   <div>인공지능을 활용 더빙은 물론 화자의 음색을 그대로 구현하는 기능을 할 수는 없을까? 라는 unthinkable question에서 시작된 프로젝트입니다. 카카오 브레인에서 인턴쉽을 진행하며 두달간 제작한 산출물입니다. 145개의 문장을 녹음하면 맞춤형 tts 모델을 훈련시켜 저장하고 임의의 음성파일을 더빙시켜주는 서비스를 개발하였습니다. 벡엔드 서버를 담당하였고 nodejs, gcp pub/sub, gcp compute engine, gcp storage, mongo db, discord webhook 등을 tech stack으로 활용했습니다. <div>
 
+   <h4 align="">
+    5. (연합전공 인공지능반도체공학) 2022 봄학기 학생인턴연구(2022.03~2022.06)
+   </h4>
+  <div> opencv와 NDK를 활용해서 로봇 TEMI가 QR 코드를 인식해서 정해진 틀 내에서 자율주행할 수 있도록하는 개발을 진행하였습니다. private repository이므로 공개하지는 못하게되었습니다.<div>
+  
+   <h4 align="">
+    6. SNU fastMRI 경진대회 참가
+    <a href="https://github.com/Giventicket/snu-fastmri-modified-DIRCN">repository</a>
+   </h4>
+  <div> 서울대학교에서 개최한 fastMRI 대회에 참가해서 leaderboard top 10의 성과를 거두었습니다. DIRCN 모델의 densely connected computation을 변형해서 주어진 resource에 알맞게 training 시켰습니다. <div>
+
+
 </h3>
 
 <hr/>
