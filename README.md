@@ -73,7 +73,7 @@
     6. SNU fastMRI 경진대회 참가(2022.06 ~ 2022.08)
     <a href="https://github.com/Giventicket/snu-fastmri-modified-DIRCN/tree/main/DIRCN">repository</a>
    </h4>
-  <div> 서울대학교에서 개최한 fastMRI 대회에 참가해서 leaderboard top 10의 성과를 거두었습니다. DIRCN 모델의 densely connected computation을 변형해서 주어진 resource에 알맞게 training 시켰습니다. <div>
+  <div> 서울대학교에서 개최한 fastMRI 대회에 참가해서 leaderboard top 10의 성과 및 특별상 수상의 결실을 맺을 수 있었습니다. DIRCN 모델의 densely connected computation을 변형해서 주어진 resource에 알맞게 training 시켰습니다. <div>
 
 
 </h3>
