@@ -75,13 +75,6 @@
    </h4>
   <div> 서울대학교에서 개최한 fastMRI 대회에 참가해서 leaderboard top 10의 성과 및 특별상 수상의 결실을 맺을 수 있었습니다. DIRCN 모델의 densely connected computation을 변형해서 주어진 resource에 알맞게 training 시켰습니다. <div>
 
-   <h4 align="">
-    7. [컴퓨터 비전의 기초] 자율 프로젝트
-    <a href="https://github.com/Giventicket/Object_Matcher_Using_CPD">repository</a>
-   </h4>
-  <div> 서울대학교 전기정보공학부의 전공선택 수강과목인 [컴퓨터 비전의 기초]를 수강하며 진행한 프로젝트입니다. keypoints를 추출하는 다양한 frontend와 EM 기반의 coherent point drift를 backend로 하여 최적의 object matching을 찾아낼 수 있는 알고리즘을 개발했습니다. 로봇의 워크스페이스에서 cpu 리소스만을 가지고 활용할 수 있도록 최적화했습니다. <div>
-
-
 </h3>
 
 <hr/>
@@ -109,6 +102,14 @@
   <div>
 삼성에서 주관하는 대학생 프로그래밍 경진대회 SCPC의 문제의 풀이 코드 및 insight sketch를 모아두었습니다.
   </div>
+
+ <h4 align="">
+    4. [컴퓨터 비전의 기초] 자율 프로젝트
+    <a href="https://github.com/Giventicket/Object_Matcher_Using_CPD">repository</a>
+   </h4>
+  <div> 서울대학교 전기정보공학부의 전공선택 수강과목인 [컴퓨터 비전의 기초]를 수강하며 진행한 프로젝트입니다. keypoints를 추출하는 다양한 frontend와 EM 기반의 coherent point drift를 backend로 하여 최적의 object matching을 찾아낼 수 있는 알고리즘을 개발했습니다. 로봇의 워크스페이스에서 cpu 리소스만을 가지고 활용할 수 있도록 최적화했습니다. <div>
+
+
 
 <hr/>
 <h3 align="center">😃 마치며 😃</h3>
