@@ -11,6 +11,10 @@
   <a href="https://www.acmicpc.net/user/jpseo99"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jpseo99"/></a>
 </p>
 
+<hr>
+<h3 align="center">
+  <a href="https://velog.io/@jpseo99/posts" align="center">블로그 방문하기</a>
+</h3>
 <hr/>
 
 <h3 align="center">🛠 테크 스택 🛠</h3>
